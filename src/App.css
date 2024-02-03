@@ -1,0 +1,23 @@
+.audio-player {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li {
+  margin: 5px;
+  padding: 10px;
+  background-color: #eee;
+  cursor: pointer;
+}
